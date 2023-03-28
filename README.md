@@ -1,4 +1,5 @@
-### Hi there 👋
+ ### 코딩 왕초보
+ 의 도전기록 🎀📓💗
 
 <!--
 **chaerishme/chaerishme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
