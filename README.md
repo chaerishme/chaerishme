@@ -1,17 +1,40 @@
- ### BBL, GL2E! 🍀💗
+<div align="center">
 
-<!--
-**chaerishme/chaerishme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Chaewon Song
 
-Here are some ideas to get you started:
+👩‍💻 Soongsil University, Computer Science  
+📫 [songchaewon@soongsil.ac.kr](mailto:songchaewon@soongsil.ac.kr)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+💡 도전을 두려워하지 않는 개발자가 되고자 합니다.
+
+<br>
+
+</div>
+
+---
+
+<br> 
+
+- **SSCC (Soongsil Computing Club)** — Member (2023.03 ~ )  
+  > Developed **Library Management & Kiosk System** (Frontend, Web)  
+  > Organized and led **JavaScript Study** (2025.04 ~ 2025.07)  
+- **Soongsil University IT College Student Council** — Chair of Executive Committee (2024.01 ~ 2024.12)  
+- **UNITHON Award (Excellence)** — Aug 2025  
+  > **숭방예의지국** : **POOM (Protective Observation Of Motion)** (Frontend Web Developer)
+
+<br>
+
+---
+
+<br>
+
+
+<div align="center">
+  <span>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chaerishme" height="150"/>
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=chaerishme&show_icons=true&theme=default" height="150"/>
+  </span>
+</div>
+
