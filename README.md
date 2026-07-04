@@ -5,6 +5,7 @@
 👩‍💻 Soongsil University, Computer Science  
 ✉️ [songchaewon@soongsil.ac.kr](mailto:songchaewon@soongsil.ac.kr)  
 📚 [velog](https://velog.io/@chaerishme/posts)
+🔗 [LinkedIn](https://www.linkedin.com/in/songchaewon)
 
 💡 도전을 두려워하지 않는 개발자가 되고자 합니다.
 
@@ -36,12 +37,21 @@
 - Exhibition : 숭실대학교 한경직기념관 김덕윤 예배실 (2025.08.13)
 <br>
 
+🏆 [**MESH HACKATHON × AWS**](https://mesh-hackathon.vercel.app/)  
+🥇 대상
+- Project: [진짜보자](https://github.com/RealBoja)
+- Team: 5팀
+- Part: Backend (Spring Boot)
+- Organization: MESH 해커톤 운영위원회
+<br>
+
 ---
 
 ## 💻 Project
 
 | Period | Project | Description | Role |
 | :--- | :--- | :--- | :--- |
+| 2026.06 | [**진짜보자**](https://github.com/RealBoja)<br> | **약속 메이킹 플랫폼**| Backend |
 | 2025.12<br>~ 2026.01 | [**SSCC web page**](https://app.sscc-ssu.com/)<br> | **SSCC 공식 홈페이지**| Frontend |
 | 2025.04<br>~ 2025.10 | [**SOOM**](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019)<br> | **Wifi Sensing 기반 침실 비서**| Frontend |
 | 2025.08 | [**POOM**](https://github.com/Soongbang-Yeuijiguk)<br> | **Wifi Sensing 기반 스마트 병실 안전 모니터링 시스템**| Frontend |
