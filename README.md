@@ -45,12 +45,21 @@
 - Organization: MESH 해커톤 운영위원회
 <br>
 
+🏆 **숭실대학교 컴퓨터학부 2026 소프트웨어공모전** <br>
+🥈 은상
+- Project: ReadyGo
+- Team: 우리두리
+- Part: 기획, 개발(React Native)
+- Organization: 숭실대학교 컴퓨터학부
+<br>
+
 ---
 
 ## 💻 Project
 
 | Period | Project | Description | Role |
 | :--- | :--- | :--- | :--- |
+| 2026.07 | **ReadyGo**<br> | **ADHD 대상 준비·이동 시간 관리 서비스**| Planning & Development |
 | 2026.06 | [**진짜보자**](https://github.com/RealBoja)<br> | **약속 메이킹 플랫폼**| Backend |
 | 2025.12<br>~ 2026.01 | [**SSCC web page**](https://app.sscc-ssu.com/)<br> | **SSCC 공식 홈페이지**| Frontend |
 | 2025.04<br>~ 2025.10 | [**SOOM**](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019)<br> | **Wifi Sensing 기반 침실 비서**| Frontend |
