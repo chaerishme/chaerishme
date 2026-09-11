@@ -33,7 +33,7 @@
 - Project: [POOM (Protective Observation Of Motion)](https://github.com/Soongbang-Yeuijiguk)
 - Team: 숭방예의지국
 - Part: Frontend
-- Organization: 숭실대학교 IT대학 학생회(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
+- Organization: 숭실대학교 IT대학 학생회·창업동아리 시너지(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
 - Exhibition : 숭실대학교 한경직기념관 김덕윤 예배실 (2025.08.13)
 <br>
 
@@ -53,12 +53,29 @@
 - Organization: 숭실대학교 컴퓨터학부
 <br>
 
+🏆 [**2026 교내 연합 해커톤 UNITHON**](https://scatch.ssu.ac.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?slug=2026-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EA%B5%90%EB%82%B4-%EC%97%B0%ED%95%A9-%ED%95%B4%EC%BB%A4%ED%86%A4-unithon-%EC%95%88%EB%82%B4)  
+🥉 우수상 – 스파르탄SW교육원 원장상
+- Project: [Baton](https://github.com/team-tktk)
+- Team: 티키타카
+- Part: Backend
+- Organization: 숭실대학교 IT대학·AI대학 학생회·창업동아리 시너지(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
+- Exhibition : 숭실대학교 한경직기념관 김덕윤 예배실 (2026.08.26)
+
+---
+
+### 📜 Certificate
+
+🪪 **SQLD (SQL 개발자)**
+- Issuer: 한국데이터산업진흥원 (KDATA)
+- Acquired: 2026.09.11
+
 ---
 
 ## 💻 Project
 
 | Period | Project | Description | Role |
 | :--- | :--- | :--- | :--- |
+| 2026.08<br>~ 2026.10 | **Baton**<br> | **AI 기반 B2B 인수인계 서비스**| Backend |
 | 2026.07 | **ReadyGo**<br> | **ADHD 대상 준비·이동 시간 관리 서비스**| Planning & Development |
 | 2026.06 | [**진짜보자**](https://github.com/RealBoja)<br> | **약속 메이킹 플랫폼**| Backend |
 | 2025.12<br>~ 2026.01 | [**SSCC web page**](https://app.sscc-ssu.com/)<br> | **SSCC 공식 홈페이지**| Frontend |
